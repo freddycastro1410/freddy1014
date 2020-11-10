@@ -1,0 +1,48 @@
+<html>
+
+<head>
+<title>EL FÚTBOL</title>
+</head>
+
+<body> <body background="fondo.jpg">
+<font face="Arial" size=6 color=black><a id=inicio></a></font>
+</p>
+
+<font face="Arial" size=4 color=red>
+<ol>
+<li><a href=#subtema1>Historia del fútbol</a></li>
+<li><a href=#subtema2>Naturaleza del juego</a></li>
+</ol> </font>
+
+<p align="center">
+<img src="h.jpg" alt="fenomenos naturales" width="400" height="250">
+</p>
+
+<fontface="Arial" size=4 color=brown>
+<ol>
+<li><a id=subtema1><p align="justify"><p><p align="justify"><img style="float:right; margin:10px;" src="f.jpg" width="220" height="210"/>La humanidad ha realizado a lo largo de su historia diversos juegos de pelota, desde la Antigüedad. Se conoce que este entretenimiento existía tanto en la cultura del Mar Mediterráneo como en América.15​ El hallazgo más antiguo y revelador se remonta a un relieve de la Antigua Grecia (400 a. C.), donde un hombre domina una pelota sobre su muslo. Este deporte era el episkyros,16​17​ que se jugaba con una pelota de cuero pintada con colores brillantes y dos equipos de 12 a 14 jugadores. La FIFA lo reconoció como una de las formas más antiguas del actual fútbol.18​ Más tarde, en Roma, el mismo recibió el nombre de harpastum.19​
+
+En Europa, ya a finales de la Edad Media y siglos posteriores, se desarrollaron en las islas británicas y zonas aledañas distintos juegos de equipo, a los cuales se los conocía como códigos de fútbol. Estos códigos se fueron unificando con el paso del tiempo, pero fue en la segunda mitad del siglo XVII cuando se dieron las primeras grandes unificaciones del fútbol, que más tarde dieron origen al fútbol de rugby, al fútbol americano, al fútbol australiano y al deporte que hoy se conoce en gran parte del mundo como fútbol a secas.
+
+En otras zonas del mundo también se practicaban juegos en los que una pelota era impulsada con los pies. Entre ellas pueden mencionarse las Reducciones Jesuíticas de la zona guaraní, más específicamente en la de San Ignacio Miní en el siglo XVII, en la región que ahora se conoce como Misiones. El jesuita español José Manuel Peramás escribió en su libro De vita et moribus tredecim virorum paraguaycorum: «Solían también jugar con un balón, que, aún siendo de goma llena, era tan ligero y rápido que, cada vez que lo golpeaban, seguía rebotando algún tiempo, sin pararse, impulsado por su propio peso. No lanzaban la pelota con la mano, como nosotros, sino con la parte superior del pie desnudo, pasándola y recibiéndola con gran agilidad y precisión».</a></li></p>
+</p>
+
+<p align="right">
+<font face="Arial" size=5 color=blue> <a href=#inicio><button>Inicio</button></a></font>
+</p>
+<hr style="border-color:black;" size="5"></hr>			
+<li><a id=subtema2><p align="justify"><p><p align="justify"><img style="float:left; margin:10px;" src="o.jpg" width="210" height="208"/><body>
+  <p style="color:black;">El fútbol se juega siguiendo una serie de reglas, llamadas oficialmente reglas de juego. Este deporte se practica con una pelota esférica (de cuero u otro material con una circunferencia no mayor a 70 cm y no inferior a 68 cm, y un peso no superior a 450 g y no inferior a 410 g al comienzo del partido), donde dos equipos de once jugadores cada uno (diez jugadores "de campo" y un guardameta) compiten por encajar la misma en la portería rival, marcando así un gol. El equipo que más goles haya marcado al final del partido es el ganador; si ambos equipos no marcan, o marcan la misma cantidad de goles, entonces se declara un empate. Puede haber excepciones a esta regla; véase Duración y resultado más abajo.
+
+La regla principal es que los jugadores, excepto los guardametas, no pueden tocar intencionalmente la pelota con sus brazos o manos durante el juego, aunque deben usar sus manos para los saques de banda.
+
+En un juego típico, los jugadores intentan llevar la pelota hasta la portería rival, lo que se denomina gol, a través del control individual de la misma, conocido como regate, o de pases a compañeros o tiros a la portería, la cual está protegida por un guardameta. Los jugadores rivales intentan recuperar el control de la pelota interceptando los pases o quitándole la pelota al jugador que la lleva; sin embargo, el contacto físico está limitado. El juego en el fútbol fluye libremente, y se detiene solamente cuando la pelota sale del terreno de juego o cuando el árbitro decide que debe detenerse. Luego de cada pausa, se reinicia el juego con una jugada específica. Al final del partido, el árbitro compensa el tiempo total en minutos que se suspendió el juego en diferentes momentos.
+
+A nivel profesional, en la mayoría de los partidos se marcan solo unos pocos goles. Por ejemplo, durante la temporada 2006/07 de la Primera División de España, la liga de fútbol española, se marcó un promedio de 2,48 goles por partido.
+</a></li></p>
+</p>
+
+<p align="right">
+<font face="Arial" size=5 color=blue> <a href=#inicio><button>Inicio</button></a></font>
+</p>
+

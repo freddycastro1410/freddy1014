@@ -1,0 +1,30 @@
+<html>
+
+<head>
+<title>EL FÚTBOL</title>
+</head>
+
+<body> <body background="fondo.jpg">
+<p align="center">
+
+
+<table border="2">
+<caption>EL FÚTBOL</caption>
+
+<tr>
+<td><p align="center"><a href="pagina1.html" target="pagina1">Home</a></td></tr>
+    
+<td><p align="center"><a href="pagina2.html" target="pagina1">Historia del fútbol</a></td></tr>
+
+<td><p align="center"><a href="pagina2.html" target="pagina1">Naturaleza del juego</a></td></tr>
+
+<td><p align="center"><a href="pagina3.html" target="pagina1">Posición táctica de los jugadores:Guardameta, arquero o portero-Defensa</a></td></tr>
+
+<td><p align="center"><a href="pagina3.html" target="pagina1">Posición táctica de los jugadores:Centrocampista-Delantero</a></td></tr>
+
+<td><p align="center"><a href="pagina4.html" target="pagina1">Actividad física</a></td></tr>
+
+<td><p align="center"><a href="pagina4.html" target="pagina1">El fútbol y sus distintas modalidades </a></td></tr>
+
+
+</table>
